@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi I'm Vilmor</h1>
-- 🔭 Currently located in Vancouver, British Coloumbia
 
+- 🔭 Currently located in Vancouver, British Coloumbia
 - 📫 You reach me at **vsomera77@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
