@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi I'm Vilmor</h1>
 
 - 🔭 Located in Vancouver, British Coloumbia
-- ⚡ Aspiring Software Engineer
+- ⚡ Computer Information Technology Student at BCIT
 - 📫 You reach me at **vsomera77@outlook.com**
 <hr>
 
