@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi I'm Vilmor</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsomera" alt="vsomera" /></a> </p>
 
 - 📫 You reach me at **vsomera77@outlook.com**
 
