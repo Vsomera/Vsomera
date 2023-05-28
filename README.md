@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi I'm Vilmor</h1>
+<h1 align="center"> ☁️ Hi I'm Vilmor  </h1>
 
 - 📍  Located in Vancouver, British Columbia
 - 🎓 Computer Information Technology Student at BCIT with a passion for Software Development
