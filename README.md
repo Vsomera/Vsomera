@@ -1,7 +1,7 @@
 <h1 align="center"> ☁️ Hi I'm Vilmor  </h1>
 
 - 📍  Located in Vancouver, British Columbia
-- 🎓 Computer Information Technology Student at BCIT with a passion for Software Development
+- 🎓 Software Developer & Computer Information Technology Student at BCIT
 - 📫 You can reach me at **vsomera77@outlook.com**
 <hr>
 
