@@ -1,6 +1,5 @@
 
 - 📍  Located in Vancouver, British Columbia
-- 🎓 Software Developer & Computer Information Technology Alumni from BCIT
 - 📫 You can reach me at **vsomera77@outlook.com**
 <hr>
 
